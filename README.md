@@ -136,7 +136,7 @@ Confusion Matrix:
 
 ## 📦 Dataset
 
-The project uses the **[MNIST Dataset](http://yann.lecun.com/exdb/mnist/)** — a benchmark dataset of handwritten digits.
+The project uses the [MNIST Dataset] — a benchmark dataset of handwritten digits.
 
 | Split | Samples |
 |-------|---------|
