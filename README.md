@@ -20,7 +20,7 @@ A deep learning project that classifies handwritten digits (0–9) from the **MN
 
 ---
 
-## 🔍 Overview
+## Overview
 
 This project explores and compares two neural network approaches for image classification on the classic MNIST handwritten digits dataset:
 
@@ -33,7 +33,7 @@ Both models were trained for **10 epochs** using the **Adam optimizer** and **Cr
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 HandWritten-Digit-Classification-using-CNN-RNN/
@@ -52,7 +52,7 @@ HandWritten-Digit-Classification-using-CNN-RNN/
 
 ---
 
-## 🧠 Model Architectures
+## Model Architectures
 
 ### CNN Architecture
 
@@ -96,7 +96,7 @@ Input (28 time steps × 28 features)
 
 ---
 
-## 📊 Results
+## Results
 
 ### CNN — Test Accuracy: **98.6%**
 
@@ -134,7 +134,7 @@ Confusion Matrix:
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 The project uses the MNIST Dataset — a benchmark dataset of handwritten digits.
 
@@ -151,7 +151,7 @@ The dataset is **automatically downloaded** by torchvision into the `./data` dir
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 - Python 3.8+
 - PyTorch
@@ -167,7 +167,7 @@ pip install torch torchvision scikit-learn jupyter
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone the repository:**
 
@@ -198,7 +198,7 @@ Then open either:
 
 ---
 
-## 💾 Saved Models
+## Saved Models
 
 | File | Model | Size |
 |------|-------|------|
@@ -209,7 +209,7 @@ These files store the learned weights and can be loaded without retraining the m
 
 ---
 
-## 🛠️ Training Details
+## Training Details
 
 | Hyperparameter | Value |
 |----------------|-------|
@@ -222,13 +222,13 @@ These files store the learned weights and can be loaded without retraining the m
 
 ---
 
-## 📄 License
+## License
 
 This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
 
-## 👤 Author
+## Author
 
 **Ehsaan** — [@Ehsaan08-ai](https://github.com/Ehsaan08-ai)
 
